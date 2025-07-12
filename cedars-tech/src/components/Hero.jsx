@@ -1,5 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
+import { SiNetflix } from "react-icons/si";
+
 
 const Hero = () => {
   return (
@@ -9,6 +11,7 @@ const Hero = () => {
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 1 }}
     >
+      <SiNetflix size={100} color="red"/>
       <motion.h1
         className="lg:text-7xl text-4xl font-inter text-center"
         initial={{ opacity: 0, y: -20 }}
