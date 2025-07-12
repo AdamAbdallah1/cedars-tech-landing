@@ -6,7 +6,7 @@ import { SiNetflix } from "react-icons/si";
 const Hero = () => {
   return (
     <motion.div
-      className="w-full lg:mt-20 flex flex-col gap-10 justify-center items-center py-40"
+      className="w-full lg:mt-20 flex flex-col gap-10 justify-center items-center py-5"
       initial={{ opacity: 0, y: 50 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 1 }}
