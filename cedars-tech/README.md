@@ -1,12 +1,59 @@
-# React + Vite
+# Cedars Tech Landing 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Cedars Tech** — Affordable streaming services made simple.  
+Enjoy your favorite channels, movies, and live sports for less.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 What’s Inside
 
-## Expanding the ESLint configuration
+- 🎥 Modern React landing page built with **Vite** & **Tailwind CSS**
+- ⚡ Smooth animations using **Framer Motion**
+- 📱 Responsive & clean UI
+- 🔗 One-click contact CTA
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🌐 Live Demo
+
+👉 [View Live Site](https://https://adamabdallah1.github.io/cedars-tech-landing)
+
+---
+
+## 🚀 Getting Started
+
+1️⃣ **Clone the repo**
+```bash
+git clone https://github.com/AdamAbdallah1/cedars-tech-landing
+cd cedars-tech-landing
+
+2️⃣ Install dependencies
+
+npm install
+
+3️⃣ Run the dev server
+
+npm run dev
+
+4️⃣ Build for production
+
+npm run build
+
+5️⃣ Deploy to GitHub Pages
+
+npm run deploy
+
+⚡ Tech Stack
+
+    React
+
+    Vite
+
+    Tailwind CSS
+
+    Framer Motion
+
+📞 Contact
+
+Built with ❤️ by Adam Abdallah.
+Questions? Contact us on WhatsApp!
