@@ -10,7 +10,7 @@ const Hero = () => {
       transition={{ duration: 1 }}
     >
       <motion.h1
-        className="text-5xl font-inter text-center"
+        className="lg:text-7xl text-4xl font-inter text-center"
         initial={{ opacity: 0, y: -20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ delay: 0.2, duration: 0.8 }}
@@ -23,7 +23,7 @@ const Hero = () => {
       </motion.h1>
 
       <motion.p
-        className="text-center"
+        className="text-center lg:text-2xl"
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ delay: 0.4, duration: 0.8 }}
