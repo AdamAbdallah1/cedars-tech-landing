@@ -40,7 +40,7 @@ const Hero = () => {
         transition={{ delay: 0.6, duration: 0.8 }}
       >
         <button className="bg-[#9754DE] text-neutral-900 font-bold p-4 rounded-2xl hover:bg-[#F5A2D1] cursor-pointer">
-          <a href="">Contact Us on WhatsApp</a>
+          <a href="https://wa.me/message/I3EGKHRI2X5EI1">Contact Us on WhatsApp</a>
         </button>
       </motion.div>
     </motion.div>

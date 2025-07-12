@@ -8,9 +8,9 @@ const Navbar = () => {
     <nav className='w-full p-10 flex justify-between text-3xl items-center'>
         <h1 className=''>Cedars Tech</h1>
         <div className='flex gap-5 text-4xl'>
-            <CiInstagram />
-            <CiFacebook />
-            <FaWhatsapp />
+            <a className='hover:text-gray-400' href="https://www.instagram.com/cedars.tech/"><CiInstagram /></a>
+            <a className='hover:text-gray-400' href="#"><CiFacebook /></a>
+            <a className='hover:text-gray-400' href="https://wa.me/message/I3EGKHRI2X5EI1"><FaWhatsapp /></a>
         </div>
     </nav>
   )

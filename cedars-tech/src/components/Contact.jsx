@@ -34,13 +34,13 @@ const Contact = () => {
         transition={{ duration: 0.5 }}
             className='flex lg:flex-row flex-col gap-8'>
                 <button className='bg-[#9754DE] text-neutral-900 font-bold lg:p-5 p-4 lg:text-2xl rounded-2xl hover:bg-red-300 cursor-pointer'>
-                  <a className='flex justify-center items-center gap-2' href="">
+                  <a className='flex justify-center items-center gap-2' href="https://wa.me/message/I3EGKHRI2X5EI1">
                     Contact Us on <FaWhatsapp size={30}/>
                   </a>
                 </button>
 
                 <button className='bg-[#9754DE] text-neutral-900 font-bold lg:p-6 p-4 lg:text-2xl rounded-2xl hover:bg-red-300 cursor-pointer'>
-                  <a className='flex justify-center items-center gap-2' href="">
+                  <a className='flex justify-center items-center gap-2' href="https://www.instagram.com/cedars.tech/">
                     Contact Us on <FaInstagram size={30}/>
                   </a>
                 </button>
