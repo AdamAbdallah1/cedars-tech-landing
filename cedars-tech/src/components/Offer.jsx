@@ -29,8 +29,8 @@ const Offer = () => {
     transition={{ duration: 1.5 }}
     className="flex flex-col items-center text-center gap-6 py-25">
       <h1
-       className="lg:text-4xl text-3xl font-bold">What We Offer</h1>
-      <p className="text-gray-400 max-w-xl">
+       className="lg:text-6xl text-3xl font-bold">What We Offer</h1>
+      <p className="lg:text-3xl text-gray-400 max-w-xl lg:max-w-max">
         Get all your favorite channels, movies, and live sports — for less.
       </p>
 
