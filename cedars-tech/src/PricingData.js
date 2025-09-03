@@ -1,5 +1,7 @@
 // src/pricingData.js
 
+import { title } from "motion/react-client";
+
 const pricingData = [ 
   {
     service: "Netflix",
@@ -69,7 +71,7 @@ const pricingData = [
     service: "Anghami",
     plans: [
       {
-        title: "Client mail",
+        title: "Client Mail",
         prices: {
           "3 Months": "$6",
           "6 Months": "$9",
@@ -82,7 +84,7 @@ const pricingData = [
     service: "Spotify",
     plans: [
       {
-        title: "Client mail",
+        title: "Client Mail",
         prices: {
           "1 Month": "$8",
           "3 Months": "$12",
@@ -111,6 +113,18 @@ const pricingData = [
       },
     ],
   },
+  {
+    service: "Canva Pro",
+    plans: [
+      {
+        title: "Client Mail",
+        prices: {
+          "1 Year": "$10",
+          "Lifetime": "$20"
+        }
+      }
+    ]
+  }
 ];
 
 export default pricingData;
