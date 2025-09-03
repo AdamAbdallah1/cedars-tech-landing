@@ -5,6 +5,7 @@ import Hero from './components/Hero'
 import Offer from './components/Offer'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
+import Pricing from './components/Pricing'
 
 function App() {
   
@@ -16,6 +17,8 @@ function App() {
         <Navbar />
         <Hero />
         <Offer />
+        <Pricing />
+
         <Contact />
         <Footer />
       </div>
